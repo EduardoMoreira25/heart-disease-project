@@ -7,10 +7,10 @@ The dataset used in this project is the Cleveland Heart Disease dataset, which c
 # Tools Used
 This project uses the following tools and libraries:
 
-pandas
-scikit-learn
-numpy
-seaborn
+* pandas
+* scikit-learn
+* numpy
+* seaborn
 # How to Run the Code
 Clone this repository to your local machine.
 Ensure that you have the required libraries installed (pandas, scikit-learn, numpy).
